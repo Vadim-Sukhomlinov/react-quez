@@ -1,0 +1,31 @@
+.main {
+  width: 600px;
+  height: 300px;
+  margin: 150px auto;
+  background-color: bisque;
+  box-shadow: 4px 4px 6px 15px rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+  position: relative;
+  padding: 10px;
+}
+
+.salute img {
+  width: 155px;
+  height: 155px;
+  position: absolute;
+  bottom: 80px;
+  right: 250px;
+  border-radius: 25px;
+}
+
+button {
+  padding: 15px;
+  border-radius: 35px;
+  background-color: red;
+  color: wheat;
+  margin-top: 50px;
+  position: absolute;
+  bottom: 10px;
+  right: 230px;
+  cursor: pointer;
+}
